@@ -1,4 +1,4 @@
-// Helper function to generate an array of n elements
+//////// Helper function to generate an array of n elements
 function generateArray(n) {
   return Array.from({ length: n }, (_, i) => i + 1);
 }
